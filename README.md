@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ##Screenshot
 
 ![alt text](https://github.com/gokhn/FlutterCovid19Tracker/blob/master/assets/screnshots/home.jpeg)
+![alt text](https://github.com/gokhn/FlutterCovid19Tracker/blob/master/assets/screnshots/country.jpeg)
