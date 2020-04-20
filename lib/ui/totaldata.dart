@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 
 Future<TotalDataResponse> fetchPost() async {
   var headers = {
-    'authorization': 'YOUR_KEY',
+    'authorization': 'YOUR_KEY ',
     "content-type": "application/json"
   };
 
