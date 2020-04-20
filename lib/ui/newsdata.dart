@@ -16,7 +16,7 @@ class NewsData extends StatefulWidget {
 class _NewsDataState extends State<NewsData> {
   Future<List<NewsResult>> _gonderiGetir() async {
     var headers = {
-      'authorization': 'apikey 7dau37bauz5buj92OO2xw9:2FQmS51oVIy0Sh25tgEkCD',
+      'authorization': 'YOUR_KEY',
       "content-type": "application/json"
     };
 

@@ -19,8 +19,8 @@ class _CountriesDataState extends State<CountriesData> {
 
   Future<List<Covid19Stats>> _gonderiGetir() async {
     var headers = {
-      'x-rapidapi-host': 'covid-19-coronavirus-statistics.p.rapidapi.com',
-      "x-rapidapi-key": "d9fee8f9f4mshf02e64fff346e15p159e86jsn5470764f8b3b"
+      'x-rapidapi-host': 'YOUR_HOST_NAME',
+      "x-rapidapi-key": "YOUR_API_KEY"
     };
 
     final response = await http.get(
